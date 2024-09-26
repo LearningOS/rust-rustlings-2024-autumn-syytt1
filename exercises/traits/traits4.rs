@@ -5,7 +5,7 @@
 // Don't change any line other than the marked one.
 //
 // Execute `rustlings hint traits4` or use the `hint` watch subcommand for a
-// hint.
+// hint. 
 
 pub trait Licensed {
     fn licensing_info(&self) -> String {
